@@ -1,0 +1,15 @@
+C:\Users\piyjain\Desktop\Advent\2022\Day1\CalorieCounting\CalorieCounting\bin\Debug\net6.0\CalorieCounting.exe
+C:\Users\piyjain\Desktop\Advent\2022\Day1\CalorieCounting\CalorieCounting\bin\Debug\net6.0\CalorieCounting.deps.json
+C:\Users\piyjain\Desktop\Advent\2022\Day1\CalorieCounting\CalorieCounting\bin\Debug\net6.0\CalorieCounting.runtimeconfig.json
+C:\Users\piyjain\Desktop\Advent\2022\Day1\CalorieCounting\CalorieCounting\bin\Debug\net6.0\CalorieCounting.dll
+C:\Users\piyjain\Desktop\Advent\2022\Day1\CalorieCounting\CalorieCounting\bin\Debug\net6.0\CalorieCounting.pdb
+C:\Users\piyjain\Desktop\Advent\2022\Day1\CalorieCounting\CalorieCounting\obj\Debug\net6.0\CalorieCounting.csproj.AssemblyReference.cache
+C:\Users\piyjain\Desktop\Advent\2022\Day1\CalorieCounting\CalorieCounting\obj\Debug\net6.0\CalorieCounting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\piyjain\Desktop\Advent\2022\Day1\CalorieCounting\CalorieCounting\obj\Debug\net6.0\CalorieCounting.AssemblyInfoInputs.cache
+C:\Users\piyjain\Desktop\Advent\2022\Day1\CalorieCounting\CalorieCounting\obj\Debug\net6.0\CalorieCounting.AssemblyInfo.cs
+C:\Users\piyjain\Desktop\Advent\2022\Day1\CalorieCounting\CalorieCounting\obj\Debug\net6.0\CalorieCounting.csproj.CoreCompileInputs.cache
+C:\Users\piyjain\Desktop\Advent\2022\Day1\CalorieCounting\CalorieCounting\obj\Debug\net6.0\CalorieCounting.dll
+C:\Users\piyjain\Desktop\Advent\2022\Day1\CalorieCounting\CalorieCounting\obj\Debug\net6.0\refint\CalorieCounting.dll
+C:\Users\piyjain\Desktop\Advent\2022\Day1\CalorieCounting\CalorieCounting\obj\Debug\net6.0\CalorieCounting.pdb
+C:\Users\piyjain\Desktop\Advent\2022\Day1\CalorieCounting\CalorieCounting\obj\Debug\net6.0\CalorieCounting.genruntimeconfig.cache
+C:\Users\piyjain\Desktop\Advent\2022\Day1\CalorieCounting\CalorieCounting\obj\Debug\net6.0\ref\CalorieCounting.dll
